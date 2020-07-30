@@ -37,7 +37,7 @@
 <div>
   hi, I'm Nash.<br />
   Working as Freelance web developer at Japan.<br />
-  Click each badge below, if you want to know more information about me :)<br />
+  Check each following badge, if you want to know about me more :)<br />
 </div>
 
 <div>
@@ -45,6 +45,6 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" />
  </a>
  <div>
