@@ -32,13 +32,13 @@
  </span>
 </div>
 
-<hr />
-
 <div>
   hi, I'm Nash.<br />
-  Working as Freelance web developer at Japan.<br />
-  Check each following badge, if you want to know about me more :)<br />
+  Working as Freelance web developer at Vancouver/Canada.<br />
+  Check each following badge and know about me more :)<br />
 </div>
+
+<hr />
 
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
