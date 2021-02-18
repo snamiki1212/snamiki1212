@@ -1,4 +1,4 @@
-<!-- <h2>⚡️Languages & Tools<h2> -->
+<h2>⚡️Languages & Tools<h2>
 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
