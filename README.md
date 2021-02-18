@@ -1,50 +1,36 @@
-<!-- 
-  * バッジ: sheilds.ioにて発行。:https://shields.io/
--->
+<h2>⚡️Languages & Tools<h2>
 
-![bg](https://user-images.githubusercontent.com/26793088/87241800-8aeed080-c461-11ea-96f7-9cc7bf591a2c.jpeg)
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="React" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Gatsby" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"></a>
 
-<div>
- <!-- Linkedin -->
- <span>
- <a href="https://www.linkedin.com/in/snamiki1212"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  </span>
+<!-- <a href="#" target="_blank"><img src="" alt="html" width="40" height="40"></a> -->
 
-
- <!-- Twitter -->
- <span>
- <a src="https://twitter.com/snamiki1212"><img src="https://img.shields.io/twitter/follow/snamiki1212?label=Twitter" alt="Twitter" /></a>
- </span>
-
- <!-- Wantedly -->
- <span>
- <a href="https://www.wantedly.com/users/103593293"><img src="https://img.shields.io/badge/W-Wantedly-%2300A4BB" alt="Wantedly"></a>
- </span>
-
- <!-- Blog -->
- <span>
+<h2>📱SNS</h2>
+<a href="https://www.linkedin.com/in/snamiki1212"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a src="https://twitter.com/snamiki1212"><img src="https://img.shields.io/twitter/follow/snamiki1212?label=Twitter" alt="Twitter" /></a>
+<a href="https://www.wantedly.com/users/103593293"><img src="https://img.shields.io/badge/W-Wantedly-%2300A4BB" alt="Wantedly"></a>
  <a href="https://snamiki1212.com"><img src="https://img.shields.io/badge/Blog-Lunash-%239932CC" alt="Blog"></a>
- </span>
-
- <!-- Job status -->
- <span>
  <a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://img.shields.io/badge/JobStatus-%E8%89%AF%E3%81%84%E6%A1%88%E4%BB%B6%E3%81%8C%E3%81%82%E3%82%8C%E3%81%B0-yellow" alt="JobStatus"></a>
  </span>
-</div>
 
-<div>
-  hi, I'm Nash.<br />
-  Working as Freelance web developer at Vancouver/Canada.<br />
-  Check each following badge and know about me more :)<br />
-</div>
+<h2>😎About Me</h2>
+hi, I'm Nash.<br />
+Working as Freelance web developer at Vancouver/Canada.<br />
+Check each following badge and know about me more :)<br />
 
-<hr />
-
-<div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" />
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" />
- </a>
- <div>
+<h2>🧑‍💻Activity</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" />
+</a>
