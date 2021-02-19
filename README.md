@@ -1,5 +1,16 @@
 <h2>😎About Me</h2>
-hi, I'm Nash based on Vancouver/Canada. 👉Let's check <a href="https://snamiki1212.github.io" target="_blank">Portfolio</a>.
+hi, I'm Nash based on Vancouver/Canada.
+
+<h2>Projects</h2>
+
+<div>Portfolio v2 | created using Svelte</div>
+<a href="https://snamiki1212.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png" alt="Portfolio" width="80" height="80"></a>
+
+<br />
+<br />
+
+<div>Plangoab | A web calendar for going abroad</div>
+<a href="https://plangoab.snamiki1212.vercel.app/"><img src="https://user-images.githubusercontent.com/26793088/108451234-4f985980-721b-11eb-9660-b8000474fb4c.png" alt="plangoab" width="80" height="80"></a>
 
 <h2>⚡️Languages & Tools<h2>
 
