@@ -3,21 +3,25 @@ hi, I'm Nash based on Vancouver/Canada. 👉Let's check <a href="https://snamiki
 
 <h2>⚡️Languages & Tools<h2>
 
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="React" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Gatsby" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a><!-- React -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a><!-- Redux -->
+<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/47953339/102215109-055fc880-3eb8-11eb-89fb-2bb3201bd964.png" alt="Nextjs" width="40" height="40"></a><!-- Nextjs -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"></a><!-- Gatsby -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"></a><!-- Nodejs -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/16dc73065dd3264d6cf49cb455821e23c8627757/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"></a><!-- Elixir -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/fc95b46563a680340bd279eb00bc9b4829b6a30a/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="40" height="40"></a><!-- Phoenix -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a><!-- PHP -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"></a><!-- Laravel -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a><!-- Firebase -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a><!-- Sass -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a><!-- HTML5 -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a><!-- CSS3 -->
 
 <!-- <a href="#" target="_blank"><img src="" alt="html" width="40" height="40"></a> -->
 
 <h2>📱SNS</h2>
+
 <a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
 <a src="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
 <a href="https://www.wantedly.com/users/103593293"><img src="https://img.shields.io/badge/W-Wantedly-%2300A4BB" alt="Wantedly"></a>
