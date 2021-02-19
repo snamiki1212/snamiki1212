@@ -3,9 +3,9 @@ hi, I'm Nash based on Vancouver/Canada.
 
 <h2>Projects</h2>
 
-| Portfolio v2                                                                                                                                                                                                                                        | Plangoab                                                                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://snamiki1212.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png" alt="Portfolio" width="80" height="80"></a><br /><span>Using Svelte</span> | <a align="right" href="https://plangoab.snamiki1212.vercel.app/"><img src="https://user-images.githubusercontent.com/26793088/108451234-4f985980-721b-11eb-9660-b8000474fb4c.png" alt="plangoab" width="80" height="80"></a><br />A web calendar<br /> for going abroad |
+| Portfolio v2                                                                                                                                                                                                                                        | Plangoab                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://snamiki1212.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png" alt="Portfolio" width="80" height="80"></a><br /><span>Using Svelte</span> | <a href="https://plangoab.snamiki1212.vercel.app/"><img src="https://user-images.githubusercontent.com/26793088/108451234-4f985980-721b-11eb-9660-b8000474fb4c.png" alt="plangoab" width="80" height="80"></a><br />Web calendar |
 
 <h2>⚡️Languages & Tools<h2>
 
@@ -41,3 +41,8 @@ hi, I'm Nash based on Vancouver/Canada.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" />
 </a>
+
+<!--
+How to layout in markdown
+REF: https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/master/markdown/github_readme_center_and_align_images.md
+ -->
