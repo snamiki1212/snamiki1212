@@ -34,7 +34,7 @@ hi, I'm Nash based on Vancouver/Canada.
 <h2>📱SNS</h2>
 
 <a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
-<a src="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
+<a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
 <a href="https://www.wantedly.com/users/103593293"><img src="https://img.shields.io/badge/W-Wantedly-%2300A4BB" alt="Wantedly"></a>
 <a href="https://snamiki1212.com"><img src="https://img.shields.io/badge/Blog-Lunash-%239932CC" alt="Blog"></a>
 <a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://img.shields.io/badge/HireMe-%E8%89%AF%E3%81%84%E6%A1%88%E4%BB%B6%E3%81%8C%E3%81%82%E3%82%8C%E3%81%B0-yellow" alt="JobStatus"></a>
