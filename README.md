@@ -3,9 +3,15 @@ hi, I'm Nash based on Vancouver/Canada.
 
 <h2>🚀Projects</h2>
 
-| Portfolio v2                                                                                                                                                                                                                                    | Plangoab                                                                                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://snamiki1212.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png" alt="Portfolio" width="80" height="80"></a><br /><span>About me</span> | <a href="https://plangoab.snamiki1212.vercel.app/"><img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png" alt="plangoab" width="80" height="80"></a><br />Web calendar |
+<table>
+<tr>
+<td align="center" valign="top" width="120">
+<a href="https://snamiki1212.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png" alt="Portfolio" width="80" height="80"></a><br /><span>Portfolio v2<br /> About me</span>
+</td>
+<td align="center" valign="top" width="120"><a href="https://plangoab.snamiki1212.vercel.app/"><img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png" alt="plangoab" width="80" height="80"></a><br /><span>Web calendar for a person to plan to go abroad</span>
+</td>
+</tr>
+</table>
 
 <h2>⚡️Languages & Tools<h2>
 
@@ -36,10 +42,10 @@ hi, I'm Nash based on Vancouver/Canada.
 
 <h2>🧑‍💻Activity</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="40%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%"/>
 </a>
 
 <!--
