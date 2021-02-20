@@ -1,7 +1,7 @@
-<h4>😎About Me</h4>
+<h3>😎About Me</h3>
 hi, I'm Nash based on Vancouver/Canada.
 
-<h4>🚀Projects</h4>
+<h3>🚀Projects</h3>
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ hi, I'm Nash based on Vancouver/Canada.
     <td align="center" width="240">Web calendar for a person to plan to go abroad</td>
 </table>
 
-<h4>⚡️Languages & Tools<h4>
+<h3>⚡️Languages & Tools<h3>
 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a><!-- React -->
@@ -43,7 +43,7 @@ hi, I'm Nash based on Vancouver/Canada.
 
 <!-- <a href="#" target="_blank"><img src="" alt="html" width="40" height="40"></a> -->
 
-<h4>📱SNS</h4>
+<h3>📱SNS</h3>
 
 <a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
 <a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
@@ -51,7 +51,7 @@ hi, I'm Nash based on Vancouver/Canada.
 <a href="https://snamiki1212.com"><img src="https://img.shields.io/badge/Blog-Lunash-%239932CC" alt="Blog"></a>
 <a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://img.shields.io/badge/HireMe-%E8%89%AF%E3%81%84%E6%A1%88%E4%BB%B6%E3%81%8C%E3%81%82%E3%82%8C%E3%81%B0-yellow" alt="JobStatus"></a>
 
-<h4>🧑‍💻Activity</h4>
+<h3>🧑‍💻Activity</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="40%"/>
 </a>
