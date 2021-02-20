@@ -10,13 +10,18 @@ hi, I'm Nash based on Vancouver/Canada.
   </tr>
   <tr>
     <td align="center" valign="top" width="120">
-      <a href="https://snamiki1212.github.io" target="_blank"><img
-          src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png"
-          alt="Portfolio" width="80" height="80"></a><br /><span>Portfolio v2<br /> About me</span>
+      <a href="https://snamiki1212.github.io" target="_blank">
+        <img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png"
+          alt="Portfolio" width="80" height="80">
+      </a><br />
+      <span>Portfolio v2<br /> About me</span>
     </td>
-    <td align="center" valign="top" width="120"><a href="https://plangoab.snamiki1212.vercel.app/"><img
-          src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
-          alt="plangoab" width="80" height="80"></a><br /><span>Web calendar for a person to plan to go abroad</span>
+    <td align="center" valign="top" width="120">
+      <a href="https://plangoab.snamiki1212.vercel.app/">
+        <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
+          alt="plangoab" width="80" height="80">
+      </a><br />
+      <span>Web calendar for a person to plan to go abroad</span>
     </td>
   </tr>
 </table>
