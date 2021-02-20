@@ -12,17 +12,16 @@ hi, I'm Nash based on Vancouver/Canada.
       <span>Portfolio v2</span>
       </a><br />
     </td>
+    <td align="center" width="240">About me</td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="120">
       <a href="https://plangoab.snamiki1212.vercel.app/">
         <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
           alt="plangoab" width="80" height="80">
       <br /><span>Plangoab</span></a>
     </td>
-  </tr>
-    <tr>
-    <td align="center" valign="top" width="120">About me</td>
-    <td align="center" valign="top" width="120">Web calendar for a person to plan to go abroad</td>
-  </tr>
+    <td align="center" width="240">Web calendar for a person to plan to go abroad</td>
 </table>
 
 <h2>⚡️Languages & Tools<h2>
