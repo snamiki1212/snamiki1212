@@ -1,5 +1,9 @@
 <h3>😎About Me</h3>
-hi, I'm Nash based on Vancouver/Canada.
+Hi, I'm Nash based on Vancouver, Canada.
+
+Working as full stack develoer
+
+Please hire me :)
 
 <h3>🚀Projects</h3>
 
