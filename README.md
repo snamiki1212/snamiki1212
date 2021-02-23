@@ -3,6 +3,8 @@ Hi, I'm Nash based on Vancouver, Canada.<br />
 Working as full stack develoer<br />
 Please hire me :)<br />
 
+<br />
+
 <a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
 <a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
 <a href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a>
@@ -33,6 +35,8 @@ Please hire me :)<br />
     </td>
     <td align="center" width="240">Web calendar for a person to plan to go abroad</td>
 </table>
+
+<hr />
 
 <h3>⚡️Languages & Tools<h3>
 
