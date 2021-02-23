@@ -1,9 +1,7 @@
 <h3>😎About Me</h3>
-Hi, I'm Nash based on Vancouver, Canada.
-
-Working as full stack develoer
-
-Please hire me :)
+Hi, I'm Nash based on Vancouver, Canada.<br />
+Working as full stack develoer<br />
+Please hire me :)<br />
 
 <h3>🚀Projects</h3>
 
@@ -45,7 +43,11 @@ Please hire me :)
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a><!-- HTML5 -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a><!-- CSS3 -->
 
-<!-- <a href="#" target="_blank"><img src="" alt="html" width="40" height="40"></a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%"/>
+</a>
+
+<hr />
 
 <h3>📱SNS</h3>
 
@@ -58,9 +60,6 @@ Please hire me :)
 <h3>🧑‍💻Activity</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="40%"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%"/>
 </a>
 
 <!--
