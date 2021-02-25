@@ -52,7 +52,7 @@ Please hire me :)<br />
 </a>
 
 <p align="left">
-  I mainly develop with React.<br /><br />
+I mainly develop with React.<br /><br />
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a><!-- React -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a><!-- Redux -->
