@@ -1,7 +1,13 @@
 <h3>😎About Me</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" align="right"/>
+</a>
+
+<p align="left">
 Hi, I'm Nash based on Vancouver, Canada.<br />
 Working as full stack develoer<br />
 Please hire me :)<br />
+</p>
 
 <br />
 
@@ -11,7 +17,8 @@ Please hire me :)<br />
 <a href="https://snamiki1212.com"><img src="https://img.shields.io/badge/Blog-Lunash-%239932CC" alt="Blog"></a>
 <a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://img.shields.io/badge/HireMe-%E8%89%AF%E3%81%84%E6%A1%88%E4%BB%B6%E3%81%8C%E3%81%82%E3%82%8C%E3%81%B0-yellow" alt="JobStatus"></a>
 
-<hr />
+<br />
+<hr>
 
 <h3>🚀Projects</h3>
 
@@ -60,11 +67,6 @@ Please hire me :)<br />
 </a>
 
 <hr />
-
-<h3>🧑‍💻Activity</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="40%"/>
-</a>
 
 <!--
 How to layout in markdown
