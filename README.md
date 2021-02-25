@@ -1,6 +1,6 @@
 <h3>😎 About Me</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
 </a>
 
 <p align="left">
@@ -48,7 +48,7 @@ Please hire me :)<br />
 <h3>⚡️ Languages & Tools<h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="right"/>
 </a>
 
 <p align="left">
@@ -69,8 +69,6 @@ Please hire me :)<br />
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a><!-- CSS3 -->
 </p>
 
-<br />
-<hr />
 
 <!--
 How to layout in markdown
