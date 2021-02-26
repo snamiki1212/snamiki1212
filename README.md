@@ -95,7 +95,7 @@ Please hire me :)<br />
 <h3>⚡️ Languages & Tools<h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="left"/>
 </a>
 
 I mainly use React / TypeScript. There are below tech stacks which I have used. <br /><br />
