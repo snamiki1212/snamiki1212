@@ -43,8 +43,17 @@ Please hire me :)<br />
       </a>
     </td>
     <td align="center" width="240">
-      <p>About me</p>
-      <a href="https://github.com/snamiki1212/v2">GitHub</a> / <a href="https://snamiki1212.github.io/v2">Site</a>
+      <p>
+        About me
+        <a href="https://github.com/snamiki1212/v2">GitHub</a> / <a href="https://snamiki1212.github.io/v2">Site</a>
+      </p>
+      <p>
+        <a href="#" target="_blank"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
+        <a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="Svelte"
+            width="40" height="40"></a><!-- Svelte -->
+      </p>
     </td>
   </tr>
   <tr>
@@ -62,11 +71,25 @@ Please hire me :)<br />
       </a>
     </td>
     <td align="center" width="240">
-      Web calendar for a person to plan to go abroad<br />
-      <a href="https://github.com/snamiki1212/plangoab">GitHub</a> / <a
-        href="https://plangoab.snamiki1212.vercel.app">Site</a>
+      <p>
+        Web calendar for a person to plan to go abroad<br />
+        <a href="https://github.com/snamiki1212/plangoab">GitHub</a> / <a
+          href="https://plangoab.snamiki1212.vercel.app">Site</a>
+      </p>
+      <p>
+        <a href="#" target="_blank"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
+        <a href="#" target="_blank"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="React" width="40" height="40"></a><!-- React -->
+        <a href="#" target="_blank"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
+            width="40" height="40"></a><!-- Redux -->
+      </p>
     </td>
 </table>
+
 <hr />
 
 <h3>⚡️ Languages & Tools<h3>
@@ -88,6 +111,7 @@ I mainly develop with React.<br /><br />
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a><!-- PHP -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"></a><!-- Laravel -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a><!-- Firebase -->
+<a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="Svelte" width="40" height="40"></a><!-- Svelte -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a><!-- Sass -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a><!-- HTML5 -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a><!-- CSS3 -->
