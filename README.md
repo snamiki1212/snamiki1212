@@ -22,27 +22,51 @@ Please hire me :)<br />
 
 <h3>🚀 Projects</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="120">
+    <td align="center">Logo</td>
+    <td align="center">Demo</td>
+    <td align="center">Description</td>
+  </tr>
+  <tr>
+    <td align="center" valign="center" width="120">
       <a href="https://snamiki1212.github.io" target="_blank">
         <img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png"
           alt="Portfolio" width="80" height="80"><br />
-      <span>Portfolio v2</span>
+        <span>Portfolio v2</span>
       </a><br />
     </td>
-    <td align="center" width="240">About me</td>
+    <td>
+      <a href="https://snamiki1212.github.io/v2">
+        <img src="https://user-images.githubusercontent.com/26793088/107836554-73a6f700-6d52-11eb-8a3d-6a7a0cf6e383.gif"
+          alt="main v2 video" width="480">
+      </a>
+    </td>
+    <td align="center" width="240">
+      <p>About me</p>
+      <a href="https://github.com/snamiki1212/v2">GitHub</a> / <a href="https://snamiki1212.github.io/v2">Site</a>
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="120">
+    <td align="center" valign="center" width="120">
       <a href="https://plangoab.snamiki1212.vercel.app/">
         <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
           alt="plangoab" width="80" height="80">
-      <br /><span>Plangoab</span></a>
+        <br /><span>Plangoab</span></a>
     </td>
-    <td align="center" width="240">Web calendar for a person to plan to go abroad</td>
+    <td>
+      <a href="https://plangoab.snamiki1212.vercel.app">
+        <img width="480"
+          src="https://user-images.githubusercontent.com/26793088/109248982-b37ecd00-779b-11eb-835a-21ba4d9e9e92.gif"
+          alt="customize-plans">
+      </a>
+    </td>
+    <td align="center" width="240">
+      Web calendar for a person to plan to go abroad<br />
+      <a href="https://github.com/snamiki1212/plangoab">GitHub</a> / <a
+        href="https://plangoab.snamiki1212.vercel.app">Site</a>
+    </td>
 </table>
-
 <hr />
 
 <h3>⚡️ Languages & Tools<h3>
