@@ -26,9 +26,9 @@ Please hire me :)<br />
 
 <table align="center">
   <tr>
-    <td align="center">Logo</td>
-    <td align="center">Demo</td>
-    <td align="center">Description</td>
+    <td align="center">𝑳𝒐𝒈𝒐</td>
+    <td align="center">𝑫𝒆𝒎𝒐</td>
+    <td align="center">𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏</td>
   </tr>
   <tr>
     <td align="center" valign="center" width="120">
