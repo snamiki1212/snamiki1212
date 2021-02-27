@@ -26,7 +26,7 @@ Please hire me :)<br />
 
 <table align="center">
   <tr>
-    <td align="center">𝑳𝒐𝒈𝒐</td>
+    <td align="center">𝑨𝒑𝒑</td>
     <td align="center">𝑫𝒆𝒎𝒐</td>
     <td align="center">𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏</td>
   </tr>
