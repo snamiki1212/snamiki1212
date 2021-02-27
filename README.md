@@ -1,4 +1,4 @@
-<h3>👋Hi, there</h3>
+<h3>👋 Hi, there</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
 </a>
@@ -22,7 +22,7 @@ Please hire me :)<br />
 <br />
 <hr>
 
-🚀<h3> <b>𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤</b></h3>
+<h3>🚀 <b>𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤</b></h3>
 
 <table align="center">
   <tr>
@@ -94,7 +94,7 @@ Please hire me :)<br />
 
 <hr />
 
-⚡️<h3> <b>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤</b><h3>
+<h3>⚡️ <b>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤</b><h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="left"/>
