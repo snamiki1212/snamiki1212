@@ -35,7 +35,7 @@ Please hire me :)<br />
       <a href="https://snamiki1212.github.io" target="_blank">
         <img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png"
           alt="Portfolio" width="80" height="80"><br />
-        <span>Portfolio v2</span>
+        <span>𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 𝒗2</span>
       </a><br />
     </td>
     <td>
@@ -63,7 +63,7 @@ Please hire me :)<br />
       <a href="https://plangoab.snamiki1212.vercel.app/">
         <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
           alt="plangoab" width="80" height="80">
-        <br /><span>Plangoab</span></a>
+        <br /><span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a>
     </td>
     <td>
       <a href="https://plangoab.snamiki1212.vercel.app">
