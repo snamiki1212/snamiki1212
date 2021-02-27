@@ -1,4 +1,4 @@
-<h3>😎 About Me</h3>
+<h3>👋Hi, there</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
 </a>
@@ -22,7 +22,7 @@ Please hire me :)<br />
 <br />
 <hr>
 
-<h3>🚀 Projects</h3>
+<h3>🚀 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h3>
 
 <table align="center">
   <tr>
@@ -94,7 +94,7 @@ Please hire me :)<br />
 
 <hr />
 
-<h3>⚡️ Languages & Tools<h3>
+<h3>⚡️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤<h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="left"/>
@@ -118,7 +118,4 @@ I mainly use React / TypeScript. There are below tech stacks which I have used. 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a><!-- HTML5 -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a><!-- CSS3 -->
 
-<!--
-How to layout in markdown
-REF: https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/master/markdown/github_readme_center_and_align_images.md
- -->
+<!-- Tips how to create this profile markdown: https://qiita.com/snamiki1212/items/5cbb78aafdfe7a3f395e -->
