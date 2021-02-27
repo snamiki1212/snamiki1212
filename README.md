@@ -122,7 +122,7 @@ I mainly use React / TypeScript. There are below tech stacks which I have used. 
 <br />
 <hr />
 
-<h3><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
+<h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
 <h3>
 
 <!-- Tips how to create this profile markdown: https://qiita.com/snamiki1212/items/5cbb78aafdfe7a3f395e -->
