@@ -22,7 +22,7 @@ Please hire me :)<br />
 <br />
 <hr>
 
-<h3>🚀 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h3>
+🚀<h3> <b>𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤</b></h3>
 
 <table align="center">
   <tr>
@@ -94,7 +94,7 @@ Please hire me :)<br />
 
 <hr />
 
-<h3>⚡️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤<h3>
+⚡️<h3> <b>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤</b><h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="left"/>
