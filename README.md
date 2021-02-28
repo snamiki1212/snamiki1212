@@ -12,12 +12,13 @@ Please hire me :)<br />
 <br />
 
 <p align="center">
-<code><a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code>
-<code><a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code>
-<code><a href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code>
-<code><a href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109260777-a241ba80-77b3-11eb-8a7e-8faac6a2bed1.jpg" alt="Blog" width="40" height="40"></a></code>
-<code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
+<code><a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code><!-- Linkedin -->
+<code><a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code><!-- Twitter -->
+<code><a href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code><!-- Wantedly -->
+<code><a href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109406765-a47d5380-7930-11eb-891b-0bb0e2dbc3b6.png" alt="Blog" width="40" height="40"></a></code><!-- Blog -->
+<code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- HireMe -->
 </p>
+
 
 <br />
 <hr>
@@ -36,6 +37,12 @@ Please hire me :)<br />
         <img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png"
           alt="Portfolio" width="80" height="80"><br />
         <span>𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 𝒗2</span>
+        <br /><br />
+        <a href="https://github.com/snamiki1212/v2"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+            alt="github-logo" width="20" height="20" /></a> / <a href="https://snamiki1212.github.io/v2"><img
+            src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
+            width="20" height="20" alt="web-site-logo" /></a>
       </a><br />
     </td>
     <td>
@@ -47,7 +54,6 @@ Please hire me :)<br />
     <td align="center" width="240">
       <p>
         About me
-        <a href="https://github.com/snamiki1212/v2">GitHub</a> / <a href="https://snamiki1212.github.io/v2">Site</a>
       </p>
       <p>
         <a href="#" target="_blank"><img
@@ -63,7 +69,14 @@ Please hire me :)<br />
       <a href="https://plangoab.snamiki1212.vercel.app/">
         <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
           alt="plangoab" width="80" height="80">
-        <br /><span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a>
+        <br />
+        <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a>
+      <br /><br />
+      <a href="https://github.com/snamiki1212/plangoab"><img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+          alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.vercel.app2"><img
+          src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
+          width="20" height="20" alt="web-site-logo" /></a>
     </td>
     <td>
       <a href="https://plangoab.snamiki1212.vercel.app">
@@ -75,8 +88,6 @@ Please hire me :)<br />
     <td align="center" width="240">
       <p>
         Web calendar for a person to plan to go abroad<br />
-        <a href="https://github.com/snamiki1212/plangoab">GitHub</a> / <a
-          href="https://plangoab.snamiki1212.vercel.app">Site</a>
       </p>
       <p>
         <a href="#" target="_blank"><img
@@ -97,7 +108,7 @@ Please hire me :)<br />
 <h3>⚡️ Languages & Tools<h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="50%" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" align="left"/>
 </a>
 
 I mainly use React / TypeScript. There are below tech stacks which I have used. <br /><br />
