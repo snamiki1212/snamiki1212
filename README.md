@@ -19,8 +19,7 @@ Please hire me :)<br />
 <code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- HireMe -->
 </p>
 
-
-<br />
+<br /><br /><br />
 
 <h3>🚀 Projects</h3>
 
@@ -102,6 +101,8 @@ Please hire me :)<br />
     </td>
 </table>
 
+<br /><br /><br />
+
 <h3>⚡️ Languages & Tools<h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -126,8 +127,7 @@ I mainly use React / TypeScript. There are below tech stacks which I have used. 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a><!-- HTML5 -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a><!-- CSS3 -->
 
-<br />
-<br />
+<br /><br /><br />
 
 <h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
 <h3>
