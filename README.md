@@ -21,7 +21,6 @@ Please hire me :)<br />
 
 
 <br />
-<hr>
 
 <h3>🚀 Projects</h3>
 
@@ -103,8 +102,6 @@ Please hire me :)<br />
     </td>
 </table>
 
-<hr />
-
 <h3>⚡️ Languages & Tools<h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -131,7 +128,6 @@ I mainly use React / TypeScript. There are below tech stacks which I have used. 
 
 <br />
 <br />
-<hr />
 
 <h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
 <h3>
