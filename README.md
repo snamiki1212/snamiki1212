@@ -1,5 +1,5 @@
 <h3>👋 Hi, there</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
 </a>
 
@@ -105,7 +105,7 @@ Please hire me :)<br />
 
 <h3>⚡️ Languages & Tools<h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" align="left"/>
 </a>
 
