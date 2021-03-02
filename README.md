@@ -4,7 +4,7 @@
 </a>
 
 <p align="left">
-Hi, I'm Nash based on Vancouver, Canada.<br />
+Hi, I'm Nash based in Vancouver, Canada.<br />
 Working as full stack develoer<br />
 Please hire me :)<br />
 </p>
