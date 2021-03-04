@@ -16,7 +16,8 @@ Please hire me :)<br />
 <code><a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code><!-- Twitter -->
 <code><a href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code><!-- Wantedly -->
 <code><a href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109406765-a47d5380-7930-11eb-891b-0bb0e2dbc3b6.png" alt="Blog" width="40" height="40"></a></code><!-- Blog -->
-<code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- HireMe -->
+<code><a href="./resume.en.pdf"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- Resume -->
+<!-- <code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code> -->
 </p>
 
 <br /><hr /><br />
@@ -133,4 +134,3 @@ I mainly use React / TypeScript. There are below tech stacks which I have used. 
 <h3>
 
 <!-- Tips how to create this profile markdown: https://qiita.com/snamiki1212/items/5cbb78aafdfe7a3f395e -->
-
