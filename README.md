@@ -102,6 +102,12 @@ Please hire me :)<br />
     </td>
 </table>
 
+<li>
+  Open Weather App
+  <li><a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHbu</a> / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a></li>
+  <li>React / TypeScript / ChakraUI</li>
+</li>
+
 <br /><hr /><br />
 
 <h3>⚡️ Languages & Tools<h3>
