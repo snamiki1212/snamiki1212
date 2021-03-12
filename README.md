@@ -103,8 +103,8 @@ Please hire me :)<br />
 </table>
 
 <li>
-  Open Weather App
-  <li><a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHbu</a> / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a></li>
+  <h4>Open Weather App</h4>
+  <li><a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a> / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a></li>
   <li>React / TypeScript / ChakraUI</li>
 </li>
 
