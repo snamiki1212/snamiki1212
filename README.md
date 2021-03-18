@@ -103,9 +103,15 @@ Please hire me :)<br />
 </table>
 
 
-<h4>Open Weather App</h4>
-<li><a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a> / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a></li>
-<li>React / TypeScript / ChakraUI</li>
+
+<ul>
+  <li>Open Weather App | [<a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a> / <a
+      href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a>] React / TypeScript /
+    ChakraUI</li>
+  <li>PW Generator App | [<a href="https://github.com/snamiki1212/pw-generator-react-typescript-chakra">GitHub</a> / <a
+      href="https://snamiki1212.github.io/pw-generator-react-typescript-chakra/">WebSite</a>] React / TypeScript /
+    ChakraUI</li>
+</ul>
 
 
 <br /><hr /><br />
