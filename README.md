@@ -103,12 +103,16 @@ Please hire me :)<br />
 </table>
 
 <ul>
-  <li><b>Open Weather App</b> [<a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a> / <a
-      href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a>] (React / TypeScript /
+  <li><b>Open Weather App</b> [<a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a>
+    / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a>] (React / TypeScript /
     ChakraUI)</li>
-  <li><b>PW Generator App</b> [<a href="https://github.com/snamiki1212/pw-generator-react-typescript-chakra">GitHub</a> / <a
-      href="https://snamiki1212.github.io/pw-generator-react-typescript-chakra/">WebSite</a>] (React / TypeScript /
+  <li><b>PW Generator App</b> [<a href="https://github.com/snamiki1212/pw-generator-react-typescript-chakra">GitHub</a>
+    / <a href="https://snamiki1212.github.io/pw-generator-react-typescript-chakra/">WebSite</a>] (React / TypeScript /
     ChakraUI)</li>
+  <li><b>Sorting Algorithm Animation</b> [<a
+      href="https://github.com/snamiki1212/sorting-algorithm-animation">GitHub</a>
+    / <a href="https://snamiki1212.github.io/sorting-algorithm-animation/">WebSite</a>] (Next.js / TypeScript /
+    ChakraUI / immer.js / frammer-motion / charts.css)</li>
 </ul>
 
 <br /><hr /><br />
