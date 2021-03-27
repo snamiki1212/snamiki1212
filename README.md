@@ -26,65 +26,25 @@ Please hire me :)<br />
 
 <table align="center">
   <tr>
-    <td align="center">𝑨𝒑𝒑</td>
-    <td align="center">𝑫𝒆𝒎𝒐</td>
-    <td align="center">𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏</td>
+    <td align="center"><b>App</b></td>
+    <td align="center"><b>Demo</b></td>
   </tr>
   <tr>
-    <td align="center" valign="center" width="120">
-      <a href="https://snamiki1212.github.io" target="_blank">
-        <img src="https://user-images.githubusercontent.com/26793088/107862066-056c3e00-6dff-11eb-87c8-8797e599d88d.png"
-          alt="Portfolio" width="80" height="80"><br />
-        <span>𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 𝒗2</span>
-        <br /><br />
-        <a href="https://github.com/snamiki1212/v2"><img
+    <td align="center" width="240">
+      <p>
+        <a href="https://plangoab.snamiki1212.vercel.app/">
+          <img
+            src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
+            alt="plangoab" width="80" height="80">
+          <br />
+          <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a><br />
+        <a href="https://github.com/snamiki1212/plangoab"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-            alt="github-logo" width="20" height="20" /></a> / <a href="https://snamiki1212.github.io/v2"><img
+            alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.vercel.app"><img
             src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
             width="20" height="20" alt="web-site-logo" /></a>
-      </a><br />
-    </td>
-    <td>
-      <a href="https://snamiki1212.github.io/v2">
-        <img src="https://user-images.githubusercontent.com/26793088/107836554-73a6f700-6d52-11eb-8a3d-6a7a0cf6e383.gif"
-          alt="main v2 video" width="480">
-      </a>
-    </td>
-    <td align="center" width="240">
-      <p>
-        About me
       </p>
-      <p>
-        <a href="#" target="_blank"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
-        <a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="Svelte"
-            width="40" height="40"></a><!-- Svelte -->
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="center" width="120">
-      <a href="https://plangoab.snamiki1212.vercel.app/">
-        <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
-          alt="plangoab" width="80" height="80">
-        <br />
-        <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a>
-      <br /><br />
-      <a href="https://github.com/snamiki1212/plangoab"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-          alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.vercel.app"><img
-          src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
-          width="20" height="20" alt="web-site-logo" /></a>
-    </td>
-    <td>
-      <a href="https://plangoab.snamiki1212.vercel.app">
-        <img width="480"
-          src="https://user-images.githubusercontent.com/26793088/109248982-b37ecd00-779b-11eb-835a-21ba4d9e9e92.gif"
-          alt="customize-plans">
-      </a>
-    </td>
-    <td align="center" width="240">
+      <hr />
       <p>
         Web calendar for a person to plan to go abroad<br />
       </p>
@@ -100,9 +60,21 @@ Please hire me :)<br />
             width="40" height="40"></a><!-- Redux -->
       </p>
     </td>
+    <td>
+      <a href="https://plangoab.snamiki1212.vercel.app">
+        <img width="480"
+          src="https://user-images.githubusercontent.com/26793088/109248982-b37ecd00-779b-11eb-835a-21ba4d9e9e92.gif"
+          alt="customize-plans">
+      </a>
+    </td>
+  </tr>
 </table>
 
+
 <ul>
+  <li><b>Portfolio v2</b> [<a href="https://github.com/snamiki1212/v2">GitHub</a>
+    / <a href="https://snamiki1212.github.io/v2">WebSite</a>] (Svelte / TypeScript /
+    SCSS)</li>
   <li><b>Open Weather App</b> [<a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a>
     / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a>] (React / TypeScript /
     ChakraUI)</li>
