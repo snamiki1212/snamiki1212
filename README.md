@@ -27,6 +27,7 @@ Please hire me :)<br />
 <table align="center">
   <tr>
     <td align="center"><b>App</b></td>
+    <td align="center"><b>Description</b></td>
     <td align="center"><b>Demo</b></td>
   </tr>
   <tr>
@@ -36,19 +37,20 @@ Please hire me :)<br />
           <img
             src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
             alt="plangoab" width="80" height="80">
-          <br />
-          <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a><br />
+          <br /><br />
+          <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a><br /><br />
         <a href="https://github.com/snamiki1212/plangoab"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
             alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.vercel.app"><img
             src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
             width="20" height="20" alt="web-site-logo" /></a>
       </p>
-      <hr />
+    </td>
+    <td>
       <p>
-        Web calendar for a person to plan to go abroad<br />
+        Web calendar<br />for a person<br />to plan to go abroad<br />
       </p>
-      <p>
+      <p align="center">
         <a href="#" target="_blank"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
