@@ -46,7 +46,7 @@ Please hire me :)<br />
           alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.vercel.app"><img
           src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
           width="20" height="20" alt="web-site-logo" /></a>
-      <br /><br />
+      <br />
       <hr />
       <p align="center">
         <a href="#" target="_blank"><img
