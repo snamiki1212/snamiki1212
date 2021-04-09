@@ -117,7 +117,7 @@ Please hire me :)<br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" align="left"/>
 </a>
 
-I mainly use React / TypeScript. There are below tech stacks which I have used. <br /><br />
+I love React / TypeScript.<br />I have experienced with following tech stacks also.<br /><br />
 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a><!-- React -->
