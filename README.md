@@ -33,7 +33,7 @@ Please hire me :)<br />
     <td align="center" width="240">
       <br />
       <a href="https://plangoab.snamiki1212.vercel.app/">
-        <img src="https://user-images.githubusercontent.com/26793088/108602890-85dbf300-7359-11eb-8131-08845527257c.png"
+        <img src="https://user-images.githubusercontent.com/26793088/114226746-d5d24180-9928-11eb-9b1b-bbf856098c9d.png"
           alt="plangoab" width="80" height="80">
         <br /><br />
         <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a><br /><br />
