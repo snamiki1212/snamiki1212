@@ -35,7 +35,7 @@ Please hire me :)<br />
       <a href="https://plangoab.snamiki1212.vercel.app/">
         <img src="https://user-images.githubusercontent.com/26793088/114226746-d5d24180-9928-11eb-9b1b-bbf856098c9d.png"
           alt="plangoab" width="80" height="80">
-        <br /><br />
+        <br />
         <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a><br /><br />
       <span>
         Web calendar for a person<br />to plan to go abroad<br />
