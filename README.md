@@ -32,7 +32,7 @@ Please hire me :)<br />
   <tr>
     <td align="center" width="240">
       <br />
-      <a href="https://plangoab.snamiki1212.vercel.app/">
+      <a href="https://plangoab.snamiki1212.com/">
         <img src="https://user-images.githubusercontent.com/26793088/114226746-d5d24180-9928-11eb-9b1b-bbf856098c9d.png"
           alt="plangoab" width="80" height="80">
         <br />
@@ -43,7 +43,7 @@ Please hire me :)<br />
       <br />
       <a href="https://github.com/snamiki1212/plangoab"><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-          alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.vercel.app"><img
+          alt="github-logo" width="20" height="20" /></a> / <a href="https://plangoab.snamiki1212.com"><img
           src="https://user-images.githubusercontent.com/26793088/109406763-a3e4bd00-7930-11eb-92c0-c8aa756ede4e.png"
           width="20" height="20" alt="web-site-logo" /></a>
       <br />
@@ -61,7 +61,7 @@ Please hire me :)<br />
       </p>
     </td>
     <td>
-      <a href="https://plangoab.snamiki1212.vercel.app">
+      <a href="https://plangoab.snamiki1212.com">
         <img width="480"
           src="https://user-images.githubusercontent.com/26793088/109248982-b37ecd00-779b-11eb-835a-21ba4d9e9e92.gif"
           alt="customize-plans">
@@ -69,7 +69,6 @@ Please hire me :)<br />
     </td>
   </tr>
 </table>
-
 
 <ul>
   <li>
