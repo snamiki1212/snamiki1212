@@ -1,4 +1,4 @@
-<h3>👋 Hi, there</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> Hi, there</h3>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
 </a>
@@ -23,6 +23,7 @@ Please hire me :)<br />
 <br /><hr /><br />
 
 <h3>🚀 Projects</h3>
+
 
 <table align="center">
   <tr>
