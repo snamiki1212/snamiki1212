@@ -38,7 +38,7 @@ Please hire me :)<br />
         <br />
         <span>𝑷𝒍𝒂𝒏𝒈𝒐𝒂𝒃</span></a><br /><br />
       <span>
-        Travel planning web app<br />for going abroad<br />
+        Immigration planner<br />for going abroad<br />
       </span>
       <br />
       <a href="https://github.com/snamiki1212/plangoab"><img
