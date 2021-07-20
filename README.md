@@ -11,14 +11,14 @@ Please hire me :)<br />
 </a>
 
 <div align="center">
-<p>English</p>
+<h5>English</h5>
 <code><a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code><!-- Linkedin -->
 <code><a href="./resume.en.pdf"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- Resume -->
 </div>
 
 <br />
 <div align="center">
-<p>Japanese</p>
+<h5>Japanese</h5>
 <code><a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code><!-- Twitter -->
 <code><a href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code><!-- Wantedly -->
 <code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- Gist -->
@@ -146,8 +146,8 @@ I like React / TypeScript and also have experienced with following tech stacks.<
 
 <h2>My Repositories</h2>
 <ul>
-  <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort="><code>example-*</code></a></li>
-  <li><a href="https://github.com/snamiki1212?tab=repositories&q=NOT+example&type=source&language=&sort=">Common repositories</a></li>
+  <li><a href="https://github.com/snamiki1212?tab=repositories&q=NOT+example&type=source&language=&sort=">Common Repositories</a></li>
+  <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort=">Example codes: <code>example-*</code></a></li>
 </ul>
 
 <br /><hr /><br />
