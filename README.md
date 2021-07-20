@@ -1,35 +1,45 @@
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> Hi, there</h3>
 
+<!-- Stats Card -->
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
+</a>
+
+<!-- Introduction -->
 <p align="left">
 Hi, I'm Nash based in Vancouver, Canada.<br />
 Working as full stack develoer<br />
 Please hire me :)<br />
 </p>
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="left"/>
-</a>
-<div>
-  <div align="center">
-    <h5>English</h5>
-    <code><a id="Linkedin" href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code>
-    <code><a id="Resume" href="./resume.en.pdf"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
+<!-- SNS Table -->
+<table>
+  <tr>
+    <td align="center">
+      <bold>English</bold>
+    </td>
+    <td align="center">
+      <bold>Japanese</bold>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code><a id="Linkedin" href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code>
+      <code><a id="Resume" href="./resume.en.pdf"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
+    </td>
+    <td>
+      <code><a id="Twitter" href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code>
+      <code><a id="Wantedly" href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code>
+      <code><a id="Gist" href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
+      <code><a id="Blog" href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109406765-a47d5380-7930-11eb-891b-0bb0e2dbc3b6.png" alt="Blog" width="40" height="40"></a></code>
+    </td>
+  </tr>
+</table>
 
-  </div>
-
-  <br />
-  <div align="center">
-    <h5>Japanese</h5>
-    <code><a id="Twitter" href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code>
-    <code><a id="Wantedly" href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code>
-    <code><a id="Gist" href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
-    <code><a id="Blog" href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109406765-a47d5380-7930-11eb-891b-0bb0e2dbc3b6.png" alt="Blog" width="40" height="40"></a></code>
-  </div>
-</div>
-</p>
 
 <br /><hr /><br />
 
+<!-- //---------------------------------------// -->
 <h3>🚀 Projects</h3>
 
 <table align="center">
