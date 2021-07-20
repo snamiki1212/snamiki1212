@@ -1,7 +1,4 @@
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> Hi, there</h3>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
-</a>
 
 <p align="left">
 Hi, I'm Nash based in Vancouver, Canada.<br />
@@ -9,15 +6,26 @@ Working as full stack develoer<br />
 Please hire me :)<br />
 </p>
 
-<br />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="left"/>
+</a>
 
-<p align="center">
+<div align="center">
+<p>English</p>
 <code><a href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code><!-- Linkedin -->
+<code><a href="./resume.en.pdf"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- Resume -->
+</div>
+
+<br />
+<div align="center">
+<p>Japanese</p>
 <code><a href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code><!-- Twitter -->
 <code><a href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code><!-- Wantedly -->
+<code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- Gist -->
 <code><a href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109406765-a47d5380-7930-11eb-891b-0bb0e2dbc3b6.png" alt="Blog" width="40" height="40"></a></code><!-- Blog -->
-<code><a href="./resume.en.pdf"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code><!-- Resume -->
-<!-- <code><a href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code> -->
+
+</div>
+
 </p>
 
 <br /><hr /><br />
