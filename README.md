@@ -30,7 +30,7 @@ Please hire me :)<br />
     <td>
       <code><a id="Twitter" href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code>
       <code><a id="Wantedly" href="https://www.wantedly.com/users/103593293"><img src="https://user-images.githubusercontent.com/26793088/108453626-b4ee4980-721f-11eb-8393-283e06481824.png" alt="Wantedly" width="40" height="40"></a></code>
-      <code><a id="Gist" href="https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
+      <code><a id="Notion" href="https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
       <code><a id="Blog" href="https://snamiki1212.com"><img src="https://user-images.githubusercontent.com/26793088/109406765-a47d5380-7930-11eb-891b-0bb0e2dbc3b6.png" alt="Blog" width="40" height="40"></a></code>
     </td>
   </tr>
