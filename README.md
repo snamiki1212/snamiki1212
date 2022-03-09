@@ -87,54 +87,36 @@ Please hire me :)<br />
     </td>
   </tr>
 </table>
+<br />
+
+<!--  -->
+
 <ul>
   <li>
-    <b>Portfolio v2</b>
-    <ul>
-      <li>[<a href="https://github.com/snamiki1212/v2">GitHub</a> / <a
-          href="https://snamiki1212.github.io/v2">WebSite</a>]
-        (Svelte / TypeScript /
-        SCSS)
-      </li>
-    </ul>
+    [<a href="https://github.com/snamiki1212/v2">GitHub</a> / <a href="https://snamiki1212.github.io/v2">WebSite</a>]
+    <b>Portfolio v2</b>: (Svelte / TypeScript / SCSS)
   </li>
   <li>
-    <b>gatsby-starter-lunash</b>
-    <ul>
-      <li>[<a href="https://github.com/snamiki1212/gatsby-starter-lunash">GitHub</a>
-        / <a href="https://snamiki1212.github.io/gatsby-starter-lunash">WebSite</a>]
-        (Gatsby.js / TypeScript /
-        styled-components)</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Open Weather App</b>
-    <ul>
-      <li>[<a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a>
-        / <a href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a>]
-        (React / TypeScript /
-        ChakraUI)</li>
-    </ul>
+    [<a href="https://github.com/snamiki1212/gatsby-starter-lunash">GitHub</a> / <a
+      href="https://snamiki1212.github.io/gatsby-starter-lunash">WebSite</a>] <b>gatsby-starter-lunash</b> (Gatsby.js /
+    TypeScript / styled-components)
   </li>
   <li>
-    <b>PW Generator App</b>
-    <ul>
-      <li>[<a href="https://github.com/snamiki1212/pw-generator-react-typescript-chakra">GitHub</a>
-        / <a href="https://snamiki1212.github.io/pw-generator-react-typescript-chakra/">WebSite</a>]
-        (React / TypeScript /
-        ChakraUI)</li>
-    </ul>
+    [<a href="https://github.com/snamiki1212/open-weather-react-typescript-chakra">GitHub</a> / <a
+      href="https://snamiki1212.github.io/open-weather-react-typescript-chakra/">WebSite</a>] <b>Open Weather App</b>
+    (React / TypeScript / ChakraUI)
+  </li>
   <li>
-    <b>Sorting Algorithm Animation</b>
-    <ul>
-      <li>[<a href="https://github.com/snamiki1212/sorting-algorithm-animation">GitHub</a>
-        / <a href="https://snamiki1212.github.io/sorting-algorithm-animation/">WebSite</a>] (Next.js / TypeScript /
-        ChakraUI / immer.js / frammer-motion / charts.css)</li>
-    </ul>
+    [<a href="https://github.com/snamiki1212/pw-generator-react-typescript-chakra">GitHub</a> / <a
+      href="https://snamiki1212.github.io/pw-generator-react-typescript-chakra/">WebSite</a>] <b>PW Generator App</b>
+    (React / TypeScript / ChakraUI)
+  </li>
+  <li>
+    [<a href="https://github.com/snamiki1212/sorting-algorithm-animation">GitHub</a> / <a
+      href="https://snamiki1212.github.io/sorting-algorithm-animation/">WebSite</a>]
+    <b>Sorting Algorithm Animation</b> (Next.js / TypeScript / ChakraUI / immer.js / frammer-motion / charts.css)
   </li>
 </ul>
-
 <br /><hr /><br />
 
 <h3>⚡️ Languages & Tools<h3>
