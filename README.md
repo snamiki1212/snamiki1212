@@ -2,7 +2,7 @@
 
 <!-- Stats Card -->
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="40%" align="right"/>
 </a>
 <!-- // Stats Card -->
 
@@ -76,7 +76,7 @@ Please hire me :)<br />
 <br />
 <!-- // Languages  -->
 
-<br /><br /><hr /><br />
+<br /><br /><br /><hr />
 
 <!-- Projects -->
 <h3>🚀 Projects</h3>
