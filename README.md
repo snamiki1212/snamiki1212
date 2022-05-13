@@ -5,9 +5,9 @@
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hi, I'm Nash🦊　　&fontAlign=80&fontAlignY=40&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hi, I'm Nash🦊　　&fontAlign=80&fontAlignY=40&color=gradient&fontSize=40" width="100%"/>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> Hi, there</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> About Me</h3>
 
 <!-- Stats Card -->
 <a href="#">
@@ -15,13 +15,6 @@
 </a>
 <!-- // Stats Card -->
 
-<!-- Introduction -->
-<p align="left">
-Hi, I'm Nash based in Vancouver/Canada working as full stack develoer<br />
-</p>
-<!-- // Introduction -->
-
-<br />
 <!-- SNS Table -->
 <table>
   <tr>
