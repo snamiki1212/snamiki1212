@@ -4,6 +4,7 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="50%" align="right"/>
 </a>
+<!-- // Stats Card -->
 
 <!-- Introduction -->
 <p align="left">
@@ -11,6 +12,7 @@ Hi, I'm Nash based in Vancouver, Canada.<br />
 Working as full stack develoer<br />
 Please hire me :)<br />
 </p>
+<!-- // Introduction -->
 
 <!-- SNS Table -->
 <table>
@@ -35,12 +37,49 @@ Please hire me :)<br />
     </td>
   </tr>
 </table>
+<!-- // SNS Table -->
 
-<br /><hr /><br />
+<br />
 
-<!-- //---------------------------------------// -->
+
+<h3>⚡️ Languages & Tools<h3>
+
+<!-- Language Card   -->
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" align="right"/></a>
+<!-- // Language Card -->
+
+<!-- Languages  -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a><!-- JavaScript -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"></a><!-- React -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a><!-- Redux -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"></a><!-- Nodejs -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="40" height="40"></a><!-- Deno -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40"></a><!-- Nextjs -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Gatsby" width="40" height="40"></a><!-- Gatsby -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"></a><!-- Svelte -->
+<br />
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"></a><!-- Rust -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"></a><!-- Elixir -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="40" height="40"></a><!-- Phoenix -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a><!-- PHP -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"></a><!-- Laravel -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"></a><!-- Golang -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40"></a><!-- Rails -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"></a><!-- Ruby -->
+<br />
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"  width="40" height="40"></a><!-- GraphQL -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"></a><!-- Heroku -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a><!-- Firebase -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"></a><!-- Docker -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"></a><!-- k8s -->
+<br />
+<!-- // Languages  -->
+
+<br /><br /><hr /><br />
+
+<!-- Projects -->
 <h3>🚀 Projects</h3>
-
 <table align="center">
   <tr>
     <td align="center"><b>App</b></td>
@@ -116,45 +155,9 @@ Please hire me :)<br />
     <b>Sorting Algorithm Animation</b> (Next.js / TypeScript / ChakraUI / immer.js / frammer-motion / charts.css)
   </li>
 </ul>
-<br /><hr /><br />
 
-<h3>⚡️ Languages & Tools<h3>
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" align="left"/>
-</a>
-
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a><!-- JavaScript -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a><!-- TypeScript -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"></a><!-- React -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a><!-- Redux -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"></a><!-- Nodejs -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="40" height="40"></a><!-- Deno -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40"></a><!-- Nextjs -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Gatsby" width="40" height="40"></a><!-- Gatsby -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"></a><!-- Svelte -->
-<span>|</span><br />
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"></a><!-- Rust -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"></a><!-- Elixir -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="40" height="40"></a><!-- Phoenix -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a><!-- PHP -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"></a><!-- Laravel -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"></a><!-- Golang -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40"></a><!-- Rails -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"></a><!-- Ruby -->
-<span>|</span><br />
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"  width="40" height="40"></a><!-- GraphQL -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"></a><!-- Heroku -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a><!-- Firebase -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"></a><!-- Docker -->
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"></a><!-- k8s -->
-<span>|</span><br />
-
-<br />
-
-<br /><hr /><br />
-
-<h2>My Repositories</h2>
+<h3>My Repositories</h3>
 <ul>
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=NOT+example&type=source&language=&sort=">Common Repositories</a></li>
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort=">Example codes: <code>example-*</code></a></li>
@@ -162,7 +165,10 @@ Please hire me :)<br />
 
 <br /><hr /><br />
 
+<!--  Footer  -->
 <h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
 <h3>
+<!-- // Footer  -->
 
+  
 <!-- Tips how to create this profile markdown: https://qiita.com/snamiki1212/items/5cbb78aafdfe7a3f395e -->
