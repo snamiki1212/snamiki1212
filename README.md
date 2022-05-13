@@ -8,12 +8,11 @@
 
 <!-- Introduction -->
 <p align="left">
-Hi, I'm Nash based in Vancouver, Canada.<br />
-Working as full stack develoer<br />
-Please hire me :)<br />
+Hi, I'm Nash based in Vancouver/Canada working as full stack develoer<br />
 </p>
 <!-- // Introduction -->
 
+<br />
 <!-- SNS Table -->
 <table>
   <tr>
@@ -76,7 +75,7 @@ Please hire me :)<br />
 <br />
 <!-- // Languages  -->
 
-<br /><br /><br /><hr />
+<br /><br /><br /><br />
 
 <!-- Projects -->
 <h3>🚀 Projects</h3>
@@ -163,7 +162,7 @@ Please hire me :)<br />
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort=">Example codes: <code>example-*</code></a></li>
 </ul>
 
-<br /><hr /><br />
+<br /><br /><br />
 
 <!--  Footer  -->
 <h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
