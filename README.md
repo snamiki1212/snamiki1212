@@ -1,3 +1,12 @@
+<!--
+- Tips how to create this profile markdown: https://qiita.com/snamiki1212/items/5cbb78aafdfe7a3f395e
+- Header: https://github.com/kyechan99/capsule-render#demo
+- StatsCard: https://github.com/anuraghazra/github-readme-stats
+-->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi, I'm Nash🦊　　!&fontAlign=80&fontAlignY=40&color=gradient" width="100%"/>
+
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> Hi, there</h3>
 
 <!-- Stats Card -->
@@ -168,6 +177,3 @@ Hi, I'm Nash based in Vancouver/Canada working as full stack develoer<br />
 <h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
 <h3>
 <!-- // Footer  -->
-
-  
-<!-- Tips how to create this profile markdown: https://qiita.com/snamiki1212/items/5cbb78aafdfe7a3f395e -->
