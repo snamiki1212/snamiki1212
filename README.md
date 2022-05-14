@@ -28,7 +28,7 @@
   <tr>
     <td>
       <code><a id="Linkedin" href="https://www.linkedin.com/in/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a></code>
-      <code><a id="Doc" href="https://www.notion.so/snamiki1212/AboutMe-bcbf1b16e6d045dbaa4f9ad1d4b2bc33"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
+      <code><a id="Doc" href="http://aboutme.snamiki1212.com/"><img src="https://user-images.githubusercontent.com/26793088/109260945-ee8cfa80-77b3-11eb-952b-a1c7f0349edc.png" alt="HireMe" width="40" height="40"></a></code>
     </td>
     <td>
       <code><a id="Twitter" href="https://twitter.com/snamiki1212"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a></code>
