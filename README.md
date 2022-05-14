@@ -5,16 +5,20 @@
 -->
 
 
+<!-- -------------------------------------------------- -->
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hi, I'm Nash🦊　　&fontAlign=80&fontAlignY=40&color=gradient&fontSize=40" width="100%"/>
+<!-- -------------------------------------------------- -->
 
+
+<!-- -------------------------------------------------- -->
+<!-- About Me -->
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow_attension" height=32 /> About Me</h3>
-
 <!-- Stats Card -->
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=snamiki1212&count_private=true&show_icons=true" width="40%" align="right"/>
 </a>
 <!-- // Stats Card -->
-
 <!-- SNS Table -->
 <table>
   <tr>
@@ -39,10 +43,11 @@
   </tr>
 </table>
 <!-- // SNS Table -->
+<!-- -------------------------------------------------- -->
 
-<br />
+<br /><br /><br />
 
-
+<!-- -------------------------------------------------- -->
 <h3>⚡️ Languages & Tools<h3>
 
 <!-- Language Card   -->
@@ -76,9 +81,11 @@
 <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"></a><!-- k8s -->
 <br />
 <!-- // Languages  -->
+<!-- -------------------------------------------------- -->
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
+<!-- -------------------------------------------------- -->
 <!-- Projects -->
 <h3>🚀 Projects</h3>
 <table align="center">
@@ -128,8 +135,7 @@
 </table>
 <br />
 
-<!--  -->
-
+<!-- small projects -->
 <ul>
   <li>
     [<a href="https://github.com/snamiki1212/v2">GitHub</a> / <a href="https://snamiki1212.github.io/v2">WebSite</a>]
@@ -156,17 +162,23 @@
     <b>Sorting Algorithm Animation</b> (Next.js / TypeScript / ChakraUI / immer.js / frammer-motion / charts.css)
   </li>
 </ul>
+<!-- -------------------------------------------------- -->
 
+<br /><br />
 
+<!-- -------------------------------------------------- -->
 <h3>My Repositories</h3>
 <ul>
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=NOT+example&type=source&language=&sort=">Common Repositories</a></li>
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort=">Example codes: <code>example-*</code></a></li>
 </ul>
+<!-- -------------------------------------------------- -->
 
 <br /><br /><br />
 
+<!-- -------------------------------------------------- -->
 <!--  Footer  -->
 <h3 align="center"><a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a> 𝕋𝕙𝕒𝕟𝕜  𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <a href=#><img src="https://user-images.githubusercontent.com/26793088/109398038-0f0d9f80-78ef-11eb-88da-3be57ab8e8df.gif" width="25" height="25"/></a>
 <h3>
 <!-- // Footer  -->
+<!-- -------------------------------------------------- -->
