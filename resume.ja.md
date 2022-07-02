@@ -1,1 +1,1 @@
-- [resume.md · GitHub](https://gist.github.com/snamiki1212/2681ec95818d6d4afdd20b98a60f3d83)
+- [Resume / Ja](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb)
