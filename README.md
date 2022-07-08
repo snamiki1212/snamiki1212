@@ -14,16 +14,11 @@
 
 ## 🚀About Me
 
-- English
-
-  - [About Me](http://aboutme.snamiki1212.com)
-  - [Linkedin](https://www.linkedin.com/in/snamiki1212)
-
-- Japanese(日本語)
-  - [About Me](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb)
-  - [Twitter](https://twitter.com/snamiki1212)
-  - [Blog](https://snamiki1212.com)
-  - [Wantedly](https://www.wantedly.com/users/103593293)
+- About Me ([🇺🇸🇨🇦🇬🇧English](http://aboutme.snamiki1212.com) / [🇯🇵Japanese](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb))
+- Linkedin ([🇺🇸🇨🇦🇬🇧English](https://www.linkedin.com/in/snamiki1212))
+- Twitter ([🇯🇵Japanese](https://twitter.com/snamiki1212))
+- Blog ([🇯🇵Japanese](https://snamiki1212.com))
+- Wantedly ([🇯🇵Japanese](https://www.wantedly.com/users/103593293))
 
 <!-- // SNS Table -->
 <!-- -------------------------------------------------- -->
