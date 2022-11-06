@@ -1,1 +1,0 @@
-- [Resume / Ja](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb)
