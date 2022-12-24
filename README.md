@@ -16,8 +16,9 @@
 - Blog ([🇯🇵Japanese](https://snamiki1212.com))
 - Wantedly ([🇯🇵Japanese](https://www.wantedly.com/users/103593293))
 - LAPRAS ([🇯🇵Japanese](https://lapras.com/public/snamiki1212))
-- FIndy ([🇯🇵Japanese](https://findy-code.io/share_profiles/elG2OdDQLrybq))
-
+- Findy ([🇯🇵Japanese](https://findy-code.io/share_profiles/elG2OdDQLrybq))
+- Keybase ([🌏English](https://keybase.io/snamiki1212))
+- Credly ([🌏English](https://www.credly.com/users/snamiki1212/badges))
 
 <!-- -------------------------------------------------- -->
 
