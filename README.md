@@ -19,6 +19,7 @@
 - Findy ([🇯🇵Japanese](https://findy-code.io/share_profiles/elG2OdDQLrybq))
 - Keybase ([🌏English](https://keybase.io/snamiki1212))
 - Credly ([🌏English](https://www.credly.com/users/snamiki1212/badges))
+- LecoS ([🇯🇵Japanese](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WDhMdktWK1VCS09odGU4S2dsT0tGZz09))
 <!-- Resume ([🌏English](https://resume.snamiki1212.com)) -->
 
 <!-- -------------------------------------------------- -->
