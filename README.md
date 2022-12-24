@@ -11,7 +11,7 @@
 
 - About Me ([🌏English](http://aboutme.snamiki1212.com) / [🇯🇵Japanese](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb))
 - Linkedin ([🌏English](https://www.linkedin.com/in/snamiki1212))
-- OSS Insight[🌏English](https://ossinsight.io/analyze/snamiki1212)
+- OSS Insight ([🌏English](https://ossinsight.io/analyze/snamiki1212))
 - Twitter ([🇯🇵Japanese](https://twitter.com/snamiki1212))
 - Blog ([🇯🇵Japanese](https://snamiki1212.com))
 - Wantedly ([🇯🇵Japanese](https://www.wantedly.com/users/103593293))
