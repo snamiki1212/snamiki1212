@@ -19,6 +19,7 @@
 - Findy ([🇯🇵Japanese](https://findy-code.io/share_profiles/elG2OdDQLrybq))
 - Keybase ([🌏English](https://keybase.io/snamiki1212))
 - Credly ([🌏English](https://www.credly.com/users/snamiki1212/badges))
+<!-- Resume ([🌏English](https://resume.snamiki1212.com)) -->
 
 <!-- -------------------------------------------------- -->
 
