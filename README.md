@@ -10,16 +10,18 @@
 ## 🚀About Me
 
 - About Me ([🌏English](http://aboutme.snamiki1212.com) / [🇯🇵Japanese](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb))
-- Linkedin ([🌏English](https://www.linkedin.com/in/snamiki1212))
-- OSS Insight ([🌏English](https://ossinsight.io/analyze/snamiki1212))
-- Twitter ([🇯🇵Japanese](https://twitter.com/snamiki1212))
-- Blog ([🇯🇵Japanese](https://snamiki1212.com))
-- Wantedly ([🇯🇵Japanese](https://www.wantedly.com/users/103593293))
-- LAPRAS ([🇯🇵Japanese](https://lapras.com/public/snamiki1212))
-- Findy ([🇯🇵Japanese](https://findy-code.io/share_profiles/elG2OdDQLrybq))
-- Keybase ([🌏English](https://keybase.io/snamiki1212))
-- Credly ([🌏English](https://www.credly.com/users/snamiki1212/badges))
-- LecoS ([🇯🇵Japanese](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WDhMdktWK1VCS09odGU4S2dsT0tGZz09))
+  - Linkedin ([🌏English](https://www.linkedin.com/in/snamiki1212))
+  - OSS Insight ([🌏English](https://ossinsight.io/analyze/snamiki1212))
+  - Twitter ([🇯🇵Japanese](https://twitter.com/snamiki1212))
+  - Blog ([🇯🇵Japanese](https://snamiki1212.com))
+  - Keybase ([🌏English](https://keybase.io/snamiki1212))
+  - Credly ([🌏English](https://www.credly.com/users/snamiki1212/badges))
+  - LecoS ([🇯🇵Japanese](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WDhMdktWK1VCS09odGU4S2dsT0tGZz09))
+- Resume
+  - Wantedly ([🇯🇵Japanese](https://www.wantedly.com/users/103593293))
+  - LAPRAS ([🇯🇵Japanese](https://lapras.com/public/snamiki1212))
+  - Findy ([🇯🇵Japanese](https://findy-code.io/share_profiles/elG2OdDQLrybq))
+  - Forkwell ([🇯🇵Japanese](https://portfolio.forkwell.com/@snamiki1212))
 <!-- Resume ([🌏English](https://resume.snamiki1212.com)) -->
 
 <!-- -------------------------------------------------- -->
