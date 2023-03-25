@@ -34,10 +34,11 @@
 </ul>
 <!-- -------------------------------------------------- -->
 
-<br />
-
+<!-- -------------------------------------------------- -->
+## 📊 Code Analytics
 <!-- Language Card   -->
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" /></a>
 
 <!-- // Language Card -->
+<!-- -------------------------------------------------- -->
