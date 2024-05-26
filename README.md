@@ -33,12 +33,3 @@
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort=">Example codes: <code>example-*</code></a></li>
 </ul>
 <!-- -------------------------------------------------- -->
-
-<!-- -------------------------------------------------- -->
-## 📊 Code Analytics
-<!-- Language Card   -->
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamiki1212&layout=compact" width="40%" /></a>
-
-<!-- // Language Card -->
-<!-- -------------------------------------------------- -->
