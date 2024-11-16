@@ -7,7 +7,7 @@
 <!-- -------------------------------------------------- -->
 <!-- About Me -->
 
-## 🚀About Me
+<!-- ## 🚀About Me -->
 
 - About Me ([🌏English](http://aboutme.snamiki1212.com) / [🇯🇵Japanese](https://aboutme.snamiki1212.com/ja))
 <!--   - OSS Insight ([🌏English](https://ossinsight.io/analyze/snamiki1212)) -->
@@ -26,10 +26,12 @@
 
 
 <!-- -------------------------------------------------- -->
+<!--
 ## 🧑‍💻 My Repositories
 
 <ul>
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=NOT+example&type=source&language=&sort=">Common Repositories</a></li>
   <li><a href="https://github.com/snamiki1212?tab=repositories&q=example+in%3Arepo&type=source&language=&sort=">Example codes: <code>example-*</code></a></li>
 </ul>
+-->
 <!-- -------------------------------------------------- -->
