@@ -9,9 +9,9 @@
 
 <!-- ## 🚀About Me -->
 
-- About Me ([🌏English](http://aboutme.snamiki1212.com) / [🇯🇵Japanese](https://aboutme.snamiki1212.com/ja))
+<!-- - About Me ([🌏English](http://aboutme.snamiki1212.com) / [🇯🇵Japanese](https://aboutme.snamiki1212.com/ja)) -- >
 <!--   - OSS Insight ([🌏English](https://ossinsight.io/analyze/snamiki1212)) -->
-  - Blog ([🇯🇵Japanese](https://snamiki1212.com))
+<!-- - Blog ([🇯🇵Japanese](https://snamiki1212.com)) -->
 <!--   - Keybase ([🌏English](https://keybase.io/snamiki1212)) -->
 <!--   - Credly ([🌏English](https://www.credly.com/users/snamiki1212/badges)) -->
 <!--   - LecoS ([🇯🇵Japanese](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WDhMdktWK1VCS09odGU4S2dsT0tGZz09)) -->
